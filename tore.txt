@@ -1,0 +1,4 @@
+.
+..
+.git
+tore.txt
